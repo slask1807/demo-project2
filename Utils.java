@@ -3,6 +3,7 @@ package task2;
 public class Utils {
     public static void main(String[] args) {
         check(1,2,3);
+        check(33,2,3);
     }
     public static void check(int x, int y, int z) {
         if (x > 0 && y > 0 && z > 0) {
